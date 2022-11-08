@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + Unocss
+# Nuxt 3 + TypeScript + Unocss
 
 ## Get Start
 
